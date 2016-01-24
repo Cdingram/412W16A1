@@ -1,0 +1,6 @@
+ConnectToName=true
+ConnectionName=10.0.1.1
+eclipse.preferences.version=1
+ev3Home=/cshome/cdingram/412/leJOS_EV3_0.8.1-beta
+run.runAfterUpload=false
+useSeparateJVM=true

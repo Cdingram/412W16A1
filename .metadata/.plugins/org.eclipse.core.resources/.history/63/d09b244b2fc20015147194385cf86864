@@ -1,0 +1,15 @@
+import lejos.hardware.Button;
+import lejos.hardware.motor.NXTMotor;
+import lejos.hardware.port.MotorPort;
+import lejos.hardware.port.SensorPort;
+import lejos.robotics.EncoderMotor;
+import lejos.utility.Delay;
+import lejos.hardware.sensor.EV3UltrasonicSensor;
+
+public class ultrasonicTest {
+	EncoderMotor leftM;
+	EncoderMotor rightM;
+	EV3UltrasonicSensor sensor;
+	
+	
+}
